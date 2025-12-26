@@ -1,5 +1,7 @@
 # Ex.08 Design of Interactive Image Gallery
-## Date:
+## Date: 24/12/25
+## Name: ADITHYA NM
+## Register No: 25011586
 
 ## AIM:
 To design a web application for an inteactive image gallery with minimum five images.
